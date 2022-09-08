@@ -1,0 +1,7 @@
+.placa, .marca, .modelo{
+    font-size: 15pt;
+}
+
+.placa{ color: green;}
+.marca{ color: red;}
+.modelo{ color: gray;}
